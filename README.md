@@ -5,6 +5,9 @@
 - 單元4：網路架構部署原則
 - 單元5：網路架構管理程序
 
+# 參考資料
+- [計算機網絡, 6/e Computer Networks, 6/e Andrew S. Tanenbaum , Nick Feamster , David J. Wetherall](https://www.tenlong.com.tw/products/9787302604716?list_name=srh)
+- 
 # 單元1：認識通訊協定與拓樸
 - 1-1 路由協定
   - 動態路由
