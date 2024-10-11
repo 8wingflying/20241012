@@ -7,7 +7,8 @@
 
 # 參考資料
 - [計算機網絡, 6/e Computer Networks, 6/e Andrew S. Tanenbaum , Nick Feamster , David J. Wetherall](https://www.tenlong.com.tw/products/9787302604716?list_name=srh)
-- 
+- 106年網路架構規劃參考指引(修訂)v3.1_1101231
+
 # 單元1：認識通訊協定與拓樸
 - 1-1 路由協定
   - 動態路由
